@@ -1,0 +1,5 @@
+CREATE VIEW `triton`.`Amount_Total` AS
+  SELECT Inv_No as Invoice_Number ,sum(Amount) as Inventory_Total,((Sum(Amount)*Excise_Duty)/100) as Excise_Amount,
+  (((Sum(Amount)*Excise_Duty)/100)+sum(Amount)) as ED_Sum,(((((Sum(Amount)*Excise_Duty)/100)+sum(Amount))*VAT_Rate)/100) as VAT_Amt,
+  ((((Sum(Amount)*Excise_Duty)/100)+sum(Amount))+(((((Sum(Amount)*Excise_Duty)/100)+sum(Amount))*VAT_Rate)/100)) as Grand_Sum
+  FROM condition_view;

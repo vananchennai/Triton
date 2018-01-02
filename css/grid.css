@@ -1,0 +1,83 @@
+<asp:GridView ID="gdv" runat="server" CssClass="grid" Width="700px"
+2
+         EmptyDataText="No Code were found" AutoGenerateColumns="False"
+3
+         AllowSorting="True" >
+4
+         <HeaderStyle CssClass="grid_header" />
+5
+         <AlternatingRowStyle CssClass="grid_alternating" />
+6
+          <Columns>
+7
+             .......
+8
+          </Columns>
+9
+</asp:GridView>
+Below is the CSS:
+view sourceprint?
+01
+/*---------------------------------------
+02
+ Grid view
+03
+-----------------------------------------*/
+.grid
+{
+ font: 11px Arial, Sans-Serif;  
+ margin-right:5px;
+}
+.grid td, .grid th
+{
+    padding:2px;
+}
+.grid_header
+{
+    text-align: left;
+    color: Black;
+    background-color: gainsboro;
+}
+.grid_row td
+{
+    /*border-bottom:solid 0px silver;*/
+
+}
+.grid_alternating
+{
+    background-color: lavender; /*#d5e3ef;*/
+}
+.grid_alternating td
+{
+    border-bottom:solid 1px silver;
+
+}
+
+.grid_pager
+
+{
+    background-color:#C6C3C6;
+    color: Black ;
+    height:15px;
+}
+.grid a
+{
+    text-decoration:underline;  
+    color:#006699
+}
+.CodeTitleGrid td
+
+{
+    border-bottom:solid 1px whitesmoke;
+   border-right: solid 1px whitesmoke;
+}
+.CodeTitleGrid a
+{
+    text-decoration: none;
+   color: #003399;
+}
+
+.CodeTitleGrid a:hover
+{
+    text-decoration: underline;
+}

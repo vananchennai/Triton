@@ -1,0 +1,8 @@
+2044	 ;VELI	 ;44;	144	 ;ss@ymail.com	 ;tsss;	INDIA	 ;Ahmedabad	 ;Andaman and Nico.In.	 ;Ahmedabad ;	
+2036	 ;vetrivel Murugan	 ;No:60Annanagar;	12555888888888888888	 ;velmurugan1990@ymail.com	 ;Tester;	INDIA	 ;Kolkata	 ;Tamil Nadu	 ;Bhubaneswar ;	
+janaki	 ;janaki	 ;Chennai;	09003217750	 ;janaki@tc.com	 ;TL;	INDIA	 ;Chennai	 ;Tamil Nadu	 ;Chennai ;	
+abcd	 ;BILLGATES	 ;Chennai;	9887765476	 ;abcd@gmail.com	 ;Developer;	INDIA	 ;Chennai	 ;Tamil Nadu	 ;Chennai ;	
+a	 ;a	 ;a;	9629914707	 ;pv@gmail.com	 ;Manager;	INDIA	 ;Chennai	 ;Tamil Nadu	 ;Chennai ;	
+tally	 ;Tally	 ;Bangalore;	9907766696	 ;Tally@tallysolutions.com	 ;Manager;	INDIA	 ;Bangalore	 ;Karnataka	 ;Bangalore ;	
+tiara	 ;TIARA	 ;Chennai;	9500077223	 ;premnath@tiaraconsulting.com	 ;BDM;	INDIA	 ;Chennai	 ;Tamil Nadu	 ;Chennai ;	
+E01	 ;Tiara	 ;CHENNAI;	9942140645	 ;sairammanigandan.km@tiaraconsulting.com	 ;IT Analyst;	INDIA	 ;Chennai	 ;Tamil Nadu	 ;Chennai ;	

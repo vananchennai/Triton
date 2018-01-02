@@ -1,0 +1,27 @@
+	ul.pagination li.details{
+	   color:#006BC9;
+	}
+    
+   ul.pagination li a
+	{
+		border-radius:3px;	
+		-moz-border-radius:3px;
+		-webkit-border-radius:3px;
+		padding:6px 9px 6px 9px;
+	}
+
+	ul.pagination li a
+	{      
+	    color: #fff;   
+		background:#006BC9;
+		background:-moz-linear-gradient(top,#2A8BE0,#006BC9);
+		background:-webkit-gradient(linear,0 0,0 100%,from(#2A8BE0),to(#006BC9));	
+	}	
+	
+	ul.pagination li a:hover,
+	ul.pagination li a.current
+	{
+		
+		color:#1A5B93;
+		background:#A5D5FF;
+	}
